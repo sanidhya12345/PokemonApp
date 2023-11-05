@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align:center;
+    margin-top: 40px;
+}
+h2{
+    text-align: center;
+}
+.searchbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.cardList{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 30px;
+}
+button{
+    font-size: 20px;
+}
